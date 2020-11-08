@@ -2,7 +2,7 @@
 Programming small drones
 
 
-This is a midterm project for the class ENGR 423 with Professor Pramod Abichandani. I worked on this project with a partner. 
+This is a midterm project for the class ENGR 423 with Professor Pramod Abichandani, in which I worked on with my partner.
 ENGR 423 is a class where we programmed small (about the size of an adult face) drones to do various tasks, all the code is written in PYTHON 3.7.
 
 The tasks that I had a hand in programming were:
