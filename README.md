@@ -12,7 +12,7 @@ The tasks that I had a hand in programming were:
   -Triangle
   -Circle (as good of a circle as you can)
 2. Create a CSV file using EXCEL/Google Sheets that has the values of roll, pitch, and throttle stored as follows:
-
+(read this part raw github doesent line up the stuff)
 Roll|Pitch|Throttle
 15    23    1
 -23   9     -1
