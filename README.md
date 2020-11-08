@@ -23,3 +23,6 @@ Write a python program to read these values from the CSV and execute the corresp
 Create an obstacle course and have your drone fly through a fixed obstacle course semi autonomously using a python file. 
 Keep in mind the obstacle course should stay fixed and not change.
 
+
+NOTE: The files labeled EXECUTE, RECORD, and README_Q3 are part of the Obstacle Course.
+
